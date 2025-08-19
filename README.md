@@ -1,19 +1,17 @@
-# Turistička agencija
+ # Turistička agencija
 
 
 
-## Tema
-Tema sajta je **Turistička agencija BalkanTravel**.  
-Sajt predstavlja ponudu aranžmana, osnovne informacije o agenciji i omogućava korisnicima da nas kontaktiraju putem forme.
+ Tema sajta je Turistička agencija BalkanTravel  
 
-## Struktura sajta
+
 Sajt se sastoji od **5 stranica**:
 
 - **index.html** – početna stranica sa uvodnim informacijama  
 - **o_nama.html** – osnovne informacije o agenciji  
-- **galerija.html** – slike destinacija  
+- **galerija.html** – slike destinacija   
 - **tabela.html** – ponuda aranžmana u tabeli  
-- **kontakt.html** – kontakt forma sa različitim tipovima input 
+- **kontakt.html** – kontakt forma 
 
 ## Pokretanje projekta
 Projekat je dostupan na linku: 
