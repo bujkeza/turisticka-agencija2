@@ -26,4 +26,5 @@ Sajt se sastoji od **5 stranica**:
 - Kontakt forma sa poljima za unos imena, emaila, pola, interesovanja i poruke  
 
 ## Pokretanje projekta
-Projekat je dostupan putem **GitHub Pages** na linku:  
+Projekat je dostupan putem **GitHub Pages** na linku: 
+https://bujkeza.github.io/turisticka-agencija2/index.html
